@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Mon Oct 25 10:06:20 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/iusupart/.selected_editor
+/home/iusupart/iusupart
+/home/iusupart/www/check.php
+/home/iusupart/www/style.css
+/home/iusupart/www/index.php
+/home/iusupart/www/style.css
+/home/iusupart/www/auth.php
+/home/iusupart/www/auth.php
+/home/iusupart/www/DEADJOE
+/home/iusupart/www/server/checkreg.php
+/home/iusupart/www/server/commentadd.php
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

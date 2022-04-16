@@ -1,0 +1,52 @@
+/* ---------------- LIGHT VERSION = DARK VERSION ---------------- */
+/* TEXT STYLE  */
+h1 {
+font-size: 35px;
+background-color: green;
+width: 300px;
+text-align: center;
+color: white;
+padding: 4px;
+border-radius: 5px;
+margin: auto;
+margin-top: 20px;
+
+}
+svg {
+    max-height: 100%; 
+    max-width: 100%;
+    background: url(http://images.vfl.ru/ii/1638564242/cc55f25f/36950246.png);
+    background-size: 100%;
+    display: block;
+    margin: auto;
+  
+  }
+
+  polygon {
+    fill: rgba(41, 163, 47, 0);
+    stroke: green; 
+    stroke-width: 5; 
+    cursor: pointer;
+  }
+
+  .active-praha {
+    stroke-width: 5; 
+    fill: rgba(9, 243, 21, 0.521);
+
+  }
+  polygon:hover {
+    fill: rgba(51, 184, 80, 0.3);
+  }
+
+  .misto-b {
+    text-align: left;
+    margin-left: 20px;
+    float: left;
+    color: white;
+    background-color: green;
+    border-radius: 7px;
+    padding: 15px;
+    font-size: 25px;
+  }
+
+  

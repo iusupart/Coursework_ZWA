@@ -1,0 +1,30 @@
+/* ---------------- LIGHT VERSION = DARK VERSION ---------------- */
+
+body {
+    color: white;
+    font-family: Arial;
+    background-color: #111;
+}
+
+a {
+    color:white;
+}
+.con1 {
+    position: relative;
+}
+.con1 {
+    padding: 4em; 
+    margin: 0;
+    background: #373737;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+.con2 {
+    margin-top: 5em;
+}

@@ -1,0 +1,28 @@
+/* COMMENT SETTENSING BOX  */
+
+.commentshow {
+    width: 798px;
+    height: 200px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.commentuser {
+    float: left;
+    margin-right: 10px;
+    height: 200px;
+    background-color: green;
+    width: 180px;
+    border-radius: 10px;
+
+}
+
+.commentmessage {
+    float: left;
+    background-color: green;
+    height: 200px;
+    width: 608px;
+    border-radius: 10px;
+    color: white;
+}

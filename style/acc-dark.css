@@ -1,0 +1,134 @@
+/* ---------------- LIGHT VERSION = DARK VERSION ---------------- */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    background-size: 100%;
+    background-color: #111;
+}
+body {
+    font-family: Georgia, serif;;
+}
+
+.content {
+    display: block;
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+
+.foto-lb {
+    float: left;
+    width: 400px;
+    height: 500px;
+    display: block;
+    background-color: gray;
+    border: solid #333 7px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.other-lb {
+    float: right;
+    width: 600px;
+    height: 500px;
+    display: block;
+    background-color: #373737;
+    border: solid #333 7px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+img {
+    height: 193px;
+    display: block;
+    margin: 40px auto;
+    border: solid #333 5px;
+}
+
+.text-info {
+    text-align: center;
+width: 300px;
+display: block;
+margin: auto;
+}
+
+.err {
+    color: white;
+}
+
+.info {
+background-color: #373737;
+border: solid #444;
+display: block;
+margin: auto;
+margin-bottom: 5px;
+border-radius: 3px;
+color: white;
+}
+
+
+
+.pack-form {
+display: block;
+margin: auto;;
+background-color: gray;
+text-align: left;
+width: 300px;
+margin-top: 105px;
+padding: 15px;
+border-radius: 10px;
+border: solid #444 5px;
+}
+
+h1 {
+    color: white;
+    background-color: #373737;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    margin-bottom: 7px;
+    text-align: center !important;
+}
+
+label {
+    background-color: #373737;
+    text-align: left;
+    margin-left: 40px;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 1px;
+}
+
+.button {
+    margin-left: 40px;
+}
+
+.text-to-back {
+    text-align: center;
+    margin-right: 20px;
+    background-color: white;
+    padding: 2px 4px 2px 4px;
+    border: 2px solid #005e00;
+    border-radius: 4px;
+    float: right;
+}
+
+.case-text-to-back {
+    margin-top: 8px;
+    text-align: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.tema {
+    display: block;
+}
+
+.form-block {
+    display: block;
+    margin: auto;
+    width: 300px;
+    margin-top: 150px;
+    border: solid 5px green;
+    padding: 15px;
+    border-radius: 5px;
+}
